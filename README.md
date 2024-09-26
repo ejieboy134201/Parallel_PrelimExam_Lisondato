@@ -37,7 +37,7 @@ Parallel_PrelimExam_Lisondato/
 3. pip install opencv-python numpy
 
 ## Running the project
-```bash 
+### You can run this on terminal by:
 python main.py
 
 
