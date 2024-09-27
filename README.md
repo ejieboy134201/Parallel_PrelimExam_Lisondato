@@ -48,11 +48,11 @@ For each iteration, you will be asked to specify how many images to process from
 ### Output
 The program will display a results table in the console with the following columns:
 
-**Iteration**: The number of the current iteration.
-**Images**: The number of images processed in that iteration.
-**Serial Time (ms)**: The time taken to process the images serially (in milliseconds).
-**Parallel Time (ms)**: The time taken to process the images in parallel (in milliseconds).
-**Speedup**: The factor by which parallel processing is faster than serial processing, calculated as serial time divided by parallel time.
+**Iteration**: The number of the current iteration.<br>
+**Images**: The number of images processed in that iteration.<br>
+**Serial Time (ms)**: The time taken to process the images serially (in milliseconds).<br>
+**Parallel Time (ms)**: The time taken to process the images in parallel (in milliseconds).<br>
+**Speedup**: The factor by which parallel processing is faster than serial processing, calculated as serial time divided by parallel time.<br>
 
 # License
 ### Summary of the README
